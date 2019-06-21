@@ -1,7 +1,7 @@
 // write your code be
-function happyHolidays(string) {
+function happyHolidays() {
   return "Happy Holidays!"
 }
 
-function happyHolidaysTo(string) {
-  
+function happyHolidaysTo(name) {
+  return
